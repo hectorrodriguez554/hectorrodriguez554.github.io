@@ -2,7 +2,7 @@
 
 Página web de pronósticos deportivos para **Fútbol**, **Baloncesto** y **Tenis**.
 
-🔗 **Demo en vivo:** [https://TU_USUARIO.github.io/pronosticos-deportivos/](https://TU_USUARIO.github.io/pronosticos-deportivos/)
+🔗 **Demo en vivo:** [https://hectorrodriguez554.github.io](https://hectorrodriguez554.github.io)
 
 ![Vista previa](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
